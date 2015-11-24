@@ -4,6 +4,9 @@ use warnings;
 
 package Steganography::Naive::Role::Internals {
 
+    # VERSION
+    # ABSTRACT: ...
+
     use Moose::Role;
     use MooseX::AttributeShortcuts;
     use Types::Path::Tiny -types;

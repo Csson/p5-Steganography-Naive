@@ -5,7 +5,7 @@ use warnings;
 package App::Steganography::Naive::Decode {
 
     # VERSION
-    # ABSTRACT: Short intro
+    # ABSTRACT: Command for decoding an image
 
     use MooseX::App::Command;
     extends 'App::Steganography::Naive';

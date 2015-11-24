@@ -5,7 +5,7 @@ use warnings;
 package Steganography::Naive::Plugin::Version1::Decoder {
 
     # VERSION
-    # ABSTRACT: Short intro
+    # ABSTRACT: The default decoder
 
     use Moose;
     with qw/Steganography::Naive::Role::Decoder/;

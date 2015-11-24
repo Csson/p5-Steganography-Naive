@@ -4,7 +4,7 @@ use warnings;
 package Steganography::Naive;
 
 # VERSION
-# ABSTRACT: Short intro
+# ABSTRACT: Naive steganography
 
 
 
@@ -14,13 +14,9 @@ __END__
 
 =pod
 
-=head1 SYNOPSIS
-
-    use Steganography::Naive;
-
 =head1 DESCRIPTION
 
-Steganography::Naive is ...
+Steganography::Naive is a steganography framework.
 
 =head1 SEE ALSO
 

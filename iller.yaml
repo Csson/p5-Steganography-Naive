@@ -26,5 +26,6 @@ doctype: weaver
 
 plugins:
   - +config: Author::CSSON
+    splint: 1
 
-  - +remove_plugin: Splint
+  #- +remove_plugin: Splint

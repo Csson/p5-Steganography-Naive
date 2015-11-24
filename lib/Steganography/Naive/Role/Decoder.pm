@@ -5,7 +5,7 @@ use warnings;
 package Steganography::Naive::Role::Decoder {
 
     # VERSION
-    # ABSTRACT: Short intro
+    # ABSTRACT: The role all decoders should do
 
     use Moose::Role;
     with qw/Steganography::Naive::Role::Internals/;
